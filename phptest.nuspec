@@ -3,7 +3,7 @@
   <metadata>
     <id>phptest</id>
     <title>PHP Test Page</title>
-    <version>$version$</version>
+    <version>1</version>
     <authors>Matthew Thorp</authors>
     <owners>Matthew Thorp</owners>
     <licenseUrl>https://opensource.org/licenses/GPL-3.0</licenseUrl>
